@@ -1,5 +1,7 @@
 # 🐤 Microduck-AX12A
 
+![](micro_duck.png)
+
 > **Open-source Microduck을 기반으로 ROBOTIS DYNAMIXEL AX-12A를 적용하여  
 > 직접 설계·제작·제어·시뮬레이션·강화학습까지 수행하는 오픈 로봇 프로젝트**
 
